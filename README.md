@@ -7,13 +7,13 @@ I am motivated by the opportunity that software provides to positively impact th
 life of an individual, and the world as a whole.
 
 Skills & Technologies:
-Flutter | Xcode | Firebase | UIKit | Javascript | React | Node js | Express js 
-| Git | Github | HTML & CSS | Object-oriented programming| Networking | RESTful APIs 
+ Javascript | React | Node js | Express js | Firebase | UIKit | Python
+| Git | Github | HTML & CSS | Object-oriented programming | RESTful APIs 
 | JSON parsing | Wordpress development | User Notifications | GCP | UX/UI Design | Debugging
 
 
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on flutter projects 
+
+- 💞️ I’m looking to collaborate on reactjs and python projects 
 - 📫 How to reach me on instagram @happybaffo
 facebook @happybaffo, twitter @happybaffo and all
 social platform at @happybaffo
