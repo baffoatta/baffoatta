@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Happy Baffo
 
-I am a solution oriented software Developer, lifelong learner,
-and adventurer with background in web and software development.
-I enjoy development because of the satisfaction I get by overcoming challenges. 
+I am a software Developer who enjoys development because of the satisfaction I get by overcoming challenges. 
 I am motivated by the opportunity that software provides to positively impact the 
 life of an individual, and the world as a whole.
 
