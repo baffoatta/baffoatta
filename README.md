@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Happy Baffo
 
-I am a solution-oriented software Developer, lifelong learner, Web development at heart. I have a background working with HTML, CSS, Sass, material UI, React, Tailwind CSS, python, Java & WordPress in the web and software development space. I enjoy development because of the satisfaction I get by overcoming challenges. I am inspired by the potential for software to make a positive difference in people's lives and the world at large.
+Software Developer morphing into AI enthusiast. Skilled in Python, Java, TypeScript, React, and JavaScript, I'm using my coding superpowers to transform ideas into solutions. When I'm not decoding the mysteries of Machine Learning, you'll find me building innovative applications. Future AI game-changer in progress! 💻🤖 #AI #MachineLearning #Developer.
 
 Skills & Technologies:
  Javascript | React | Node js | Express js | Firebase | Python
